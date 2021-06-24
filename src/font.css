@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "SF";
+    font-weight: bold;
+    src: url('./fonts/SFBold.otf');
+}
+@font-face {
+  font-family: "SF-Medium";
+  src: url("./fonts/SF-Medium.otf");
+}
+.sf-medium-font{
+  font-family: 'SF-Medium';
+}
+.sf-font{
+    font-family: 'SF';
+    font-weight: bold;
+}
+.backshadow{
+  box-shadow: 0px 0px 48px 10px rgba(255,255,255,1);
+}
