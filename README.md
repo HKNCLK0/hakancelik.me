@@ -1,1 +1,3 @@
-"# hakancelik.me" 
+npm install
+
+npm run dev
